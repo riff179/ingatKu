@@ -1,0 +1,6 @@
+# Inti aplikasi TIDAK butuh pustaka tambahan (hanya Python 3.9+ standar).
+# Aktifkan suara di server (opsional) dengan menghapus tanda # di bawah ini:
+# faster-whisper>=1.0      # pengenalan ucapan (Whisper)
+# transformers>=4.40       # sintesis suara (VITS / MMS-TTS Indonesia)
+# torch
+# numpy
